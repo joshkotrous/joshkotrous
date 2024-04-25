@@ -1,15 +1,15 @@
 # Hi there 👋
 Welcome to my GitHub! I'm passionate about building robust applications and leading teams to success. With expertise in Python, JavaScript, and AWS, I specialize in crafting scalable, efficient solutions that drive innovation.
 
-## 🔧 Technologies & Tools:
+## 🔧 Technologies & Tools
 - Python: Django, Flask, Serverless Framework
 - JavaScript: React
 - AWS: Elastic Beanstalk, Lambda, S3, RDS, API Gateway, IAM, and more!
-## 💼 What I Do:
+## 💼 What I Do
 - Engineering Management: Leading teams to deliver high-quality software solutions.
 - Full Stack Development: Crafting backend and frontend components with Python and JavaScript.
 - Cloud Architecture: Designing and implementing scalable AWS infrastructures.
-## 🔭 I'm Currently Working On:
+## 🔭 I'm Currently Working On
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshkotrous&repo=devume-frontend)](https://github.com/joshkotrous/devume-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshkotrous&repo=devume-backend)](https://github.com/joshkotrous/devume-backend)
 <!--
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
-## ⚡ Fun Facts:
+## ⚡ Fun Facts
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshkotrous&hide=css,html)
 
 

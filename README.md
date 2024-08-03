@@ -9,9 +9,8 @@ Welcome to my GitHub! I'm passionate about building robust applications and lead
 - Engineering Management: Leading teams to deliver high-quality software solutions.
 - Full Stack Development: Crafting backend and frontend components with Python and JavaScript.
 - Cloud Architecture: Designing and implementing scalable AWS infrastructures.
-## 🔭 I'm Currently Working On
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshkotrous&repo=devume-frontend)](https://github.com/joshkotrous/devume-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshkotrous&repo=devume-backend)](https://github.com/joshkotrous/devume-backend)
+<!-- ## 🔭 I'm Currently Working On
+
 <!--
 ## 🚀 Projects:
 Here are a few projects I've worked on:

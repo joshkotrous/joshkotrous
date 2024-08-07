@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm passionate about building robust applications and lead
 
 ## 🔧 Technologies & Tools
 - Python: Django, Flask, Serverless Framework
-- TypeScript/JavaScript: React, Node.js
+- TypeScript/JavaScript: React, Node.js, Next.js
 - AWS: Elastic Beanstalk, Lambda, S3, RDS, API Gateway, IAM, and more!
 ## 💼 What I Do
 - Engineering Management: Leading teams to deliver high-quality software solutions.
